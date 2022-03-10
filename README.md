@@ -1,6 +1,6 @@
-# Week Two Task
+# Week Three Task
 
-The tasks given to you in the algorithms and frontend folders are to test how much you know about designing web pages with HTML, CSS and JavaScript and solving problems with JavaScript. The duration for the challenge is 3 days.
+The tasks given to you in the algorithms and frontend folders are to test how much you know about designing web pages with HTML, CSS and JavaScript and solving problems with JavaScript. The duration for the challenge is 4 days.
 
 Look for an instructions.md file in each of the folders to guide your problem solving. Only edit the index.html, style.css, script.js and the function blocks inside the 5 challenge.js files.
 

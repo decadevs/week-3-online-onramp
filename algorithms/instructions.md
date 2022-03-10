@@ -131,12 +131,6 @@ Output: `[2, 4]`
 
 _Explanation: `Row 2, Column 4` is the index of the last index of 5. Remember that indexes are 0 based._
 
-## Examples
-
-withdraw(250) to return [2,1,0]  
-withdraw(370) to return [3,1,1]
-
-
 
 # Challenge 5
 
